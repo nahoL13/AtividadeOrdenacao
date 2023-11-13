@@ -8,20 +8,6 @@
   ![image](https://github.com/nahoL13/AtividadeOrdenacao/assets/107220113/4422633e-77a8-4f91-8f03-90ae150530b3)
 
 
-<details>
-  <summary>Sobre:</summary>
-  <ol>
-    <li>
-      <a href="#Sobre-o-Projeto">Sobre o Projeto</a>
-    </li>
-    <li><a href="#usage">Prints</a></li>
-    <li><a href="#ChecklistChecklist</a></li>
-    <li><a href="#Linguagem">Linguagem</a></li>
-    <li><a href="#Alunos">Alunos/a></li>
-  </ol>
-</details>
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## Sobre o Projeto
