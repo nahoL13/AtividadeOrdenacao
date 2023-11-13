@@ -1,18 +1,16 @@
  # AtividadeOrdenacao
 
 <a name="readme-top"></a>
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://imgur.com/DU61AKJ">
-    <img src="https://imgur.com/DU61AKJ" alt="Logo" width="80" height="80">
+    <img src="[image](https://github.com/nahoL13/AtividadeOrdenacao/assets/107220113/994b46a0-2d55-41e5-b0b1-1ffa82b7913c)" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Trabalho PjBL 4 - Algoritmos de Ordenação</h3>
 
   <p align="center">
    
-   ![image](https://github.com/nahoL13/AtividadeOrdenacao/assets/107220113/994b46a0-2d55-41e5-b0b1-1ffa82b7913c)
    
   </p>
   
@@ -38,7 +36,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre o Projeto
 
-Esse Projeto foi feito em Linguagem Java e mostra os diferentes tipos de Algoritimos de Ordenacao, esse Projeto apresenta 3 tipos de Algoritmos, primeiramente ele apresenta BubbleSort, InsertionSort e QuickSort
+Esse Projeto foi feito em Linguagem Java e mostra os diferentes tipos de Algoritimos de Ordenacao, esse Projeto apresenta 3 tipos de Algoritmos, ele apresenta BubbleSort, InsertionSort e QuickSort
 
 
 Codigo para o BubbleSort
@@ -90,6 +88,6 @@ Lohan Berg Bello Lima
 André Gonçalves Akim
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">voltar ao inicio</a>)</p>
 
 
