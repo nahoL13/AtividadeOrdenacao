@@ -4,15 +4,8 @@
 
   <h3 align="center">Trabalho PjBL 4 - Algoritmos de Ordenação</h3>
 
-  ![image](https://github.com/nahoL13/AtividadeOrdenacao/assets/107220113/65278900-37fa-4636-b7d7-83a170d6e34e)
 
-  <p align="center">
-   
-   
-  </p>
-  
-</div>
-
+  ![image](https://github.com/nahoL13/AtividadeOrdenacao/assets/107220113/4422633e-77a8-4f91-8f03-90ae150530b3)
 
 
 <details>
