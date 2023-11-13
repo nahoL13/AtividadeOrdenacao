@@ -101,7 +101,15 @@ public class Ordenacao {
         System.out.println("Lista ordenada com Quick Sort:");
         int listaQuick[] = lista.clone();
         quickSort(listaQuick, 0, listaQuick.length - 1);
-        System.out.println("Lista ordenada:");
+        System.out.println("\n Lista ordenada:");
+
+        System.out.println("\n Lista Quick:");
         printArray(listaQuick);
+
+        System.out.println("\n Lista Insertion:");
+        printArray(listaInsertion);
+
+        System.out.println("\n Lista Bubble:");
+        printArray(listaBubble);
     }
 }
