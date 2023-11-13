@@ -9,15 +9,15 @@
 
 
 <details>
-  <summary>Sobre: </summary>
+  <summary>Sobre:</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Sobre o Projeto</a>
+      <a href="#Sobre-o-Projeto">Sobre o Projeto</a>
     </li>
     <li><a href="#usage">Prints</a></li>
-    <li><a href="#roadmap">Checklist</a></li>
+    <li><a href="#ChecklistChecklist</a></li>
     <li><a href="#Linguagem">Linguagem</a></li>
-    <li><a href="#contact">Alunos/a></li>
+    <li><a href="#Alunos">Alunos/a></li>
   </ol>
 </details>
 
